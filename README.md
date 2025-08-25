@@ -12,4 +12,4 @@ This library is highly suitable for building business bots, chat automation syst
 
 ---
 
-berhenti update dan pindah ke npm "@whiskeysockets/baileys": "npm:@shennmime/baileys",
+#Shena Always Watching You
